@@ -19,7 +19,7 @@ if __name__ == "__main__":
     out_valid = open('data/valid_handle.txt', 'w')
     out_invalid = open('data/invalid_handle.txt', 'w')
     
-    print("File Loading...")
+    print("File Processing...")
     lines = input_file.read().split("\n") # Create a list containing all lines
     cnt = -1  # for remove the last newline as handle
     for han in lines:
