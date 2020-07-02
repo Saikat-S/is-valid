@@ -11,5 +11,6 @@ python is_valid.py
 * All checked handle - [checked_handle.txt](data/checked_handle.txt)
 * Valid handle - [valid_handle.txt](data/valid_handle.txt)
 * Invalid handle - [invalid_handle.txt](data/invalid_handle.txt)
-
+\
+\
 > Thanks for your interest!
